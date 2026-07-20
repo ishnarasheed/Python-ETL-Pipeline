@@ -19,4 +19,14 @@ This project focuses on building an efficient data pipeline that handles raw dat
 - **Loading:** Exports cleaned, structured data for database ingestion.
 
 ---
+### 📁 Project Files
+* [cleaning_script.py](https://github.com/ishnarasheed/Python-ETL-Pipeline/blob/main/01_Data_Cleaning_Pipeline/cleaning.py)
+* [loader_script.py](https://github.com/ishnarasheed/Python-ETL-Pipeline/blob/main/02_CSV_to_SQL_Loader/loader.py)
+* [transformation_script.py](https://github.com/ishnarasheed/Python-ETL-Pipeline/blob/main/03_Data_Transformation_Logic/transform.py)
+
+### 📁 Project Portfolio
+* [Data Cleaning Pipeline](./01_Data_Cleaning_Pipeline)
+* [CSV to SQL Loader](./02_CSV_to_SQL_Loader)
+* [Data Transformation Logic](./03_Data_Transformation_Logic)
+  
 *Developed by [Ishna Rasheed](https://github.com/ishnarasheed)*
